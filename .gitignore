@@ -16,3 +16,4 @@ JLinkLog.txt
 *.axf
 *.sct
 *.iex
+*.cout
