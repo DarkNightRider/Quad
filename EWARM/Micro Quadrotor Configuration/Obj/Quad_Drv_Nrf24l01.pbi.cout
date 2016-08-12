@@ -1,48 +1,48 @@
-"D:\OneDrive\文档\Micro Quadrotor\Quadrotor\Drivers\Quad_Drv_Nrf24l01.cpp"
+"E:\Quad\Quadrotor\Drivers\Quad_Drv_Nrf24l01.cpp"
 -std=c++98
 -ferror-limit=100
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM/../Inc
+E:\Quad\EWARM/../Inc
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
+E:\Quad\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
+E:\Quad\EWARM/../Drivers/STM32F1xx_HAL_Driver/Inc/Legacy
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM/../Drivers/CMSIS/Include
+E:\Quad\EWARM/../Drivers/CMSIS/Include
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
+E:\Quad\EWARM/../Drivers/CMSIS/Device/ST/STM32F1xx/Include
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM\..\Quadrotor\Applications
+E:\Quad\EWARM\..\Quadrotor\Applications
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM\..\Quadrotor\Drivers
+E:\Quad\EWARM\..\Quadrotor\Drivers
 -I
-D:\OneDrive\文档\Micro Quadrotor\EWARM\..\Quadrotor\Math
+E:\Quad\EWARM\..\Quadrotor\Math
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
+D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc
+D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\c
+D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\c
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\cpp
+D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\inc\cpp
 -I
-D:\OneDrive\文档\Micro Quadrotor\Inc
+E:\Quad\Inc
 -I
-D:\OneDrive\文档\Micro Quadrotor\Drivers\STM32F1xx_HAL_Driver\Inc
+E:\Quad\Drivers\STM32F1xx_HAL_Driver\Inc
 -I
-D:\OneDrive\文档\Micro Quadrotor\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
+E:\Quad\Drivers\STM32F1xx_HAL_Driver\Inc\Legacy
 -I
-D:\OneDrive\文档\Micro Quadrotor\Drivers\CMSIS\Include
+E:\Quad\Drivers\CMSIS\Include
 -I
-D:\OneDrive\文档\Micro Quadrotor\Drivers\CMSIS\Device\ST\STM32F1xx\Include
+E:\Quad\Drivers\CMSIS\Device\ST\STM32F1xx\Include
 -I
-D:\OneDrive\文档\Micro Quadrotor\Quadrotor\Applications
+E:\Quad\Quadrotor\Applications
 -I
-D:\OneDrive\文档\Micro Quadrotor\Quadrotor\Drivers
+E:\Quad\Quadrotor\Drivers
 -I
-D:\OneDrive\文档\Micro Quadrotor\Quadrotor\Math
+E:\Quad\Quadrotor\Math
 -I
-C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
+D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -DUSE_HAL_DRIVER=1
 -DSTM32F103xB=1
 -DSTM32F103_MD=1
@@ -275,8 +275,8 @@ C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\CMSIS\Include
 -D__EDG_SYSV=0
 -D__EDG_ANSIC=1
 -D__EDG_CPP11_IL_EXTENSIONS_SUPPORTED=1
--D_DLIB_CONFIG_FILE_HEADER_NAME="C:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\INC\c\DLib_Config_Full.h"
--D_DLIB_CONFIG_FILE_STRING="C:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.2\\arm\\INC\\c\\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_HEADER_NAME="D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\arm\INC\c\DLib_Config_Full.h"
+-D_DLIB_CONFIG_FILE_STRING="D:\\Program Files (x86)\\IAR Systems\\Embedded Workbench 7.2\\arm\\INC\\c\\DLib_Config_Full.h"
 -D__VERSION__="IAR ANSI C/C++ Compiler V7.40.3.8902/W32 for ARM"
 -D_VA_DEFINED=
 -D__CODE_MEMORY_LIST1__()=__CODE_MEM_HELPER1__(__code, 0 )

@@ -25,7 +25,7 @@ if not "%1" == "" goto debugFile
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "D:\OneDrive\文档\Micro Quadrotor\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.general.xcl" --backend -f "D:\OneDrive\文档\Micro Quadrotor\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "E:\Quad\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.general.xcl" --backend -f "E:\Quad\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.driver.xcl" 
 
 @echo off 
 goto end 
@@ -34,7 +34,7 @@ goto end
 
 @echo on 
 
-"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "D:\OneDrive\文档\Micro Quadrotor\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.general.xcl" "--debug_file=%1" --backend -f "D:\OneDrive\文档\Micro Quadrotor\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.driver.xcl" 
+"D:\Program Files (x86)\IAR Systems\Embedded Workbench 7.2\common\bin\cspybat" -f "E:\Quad\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.general.xcl" "--debug_file=%1" --backend -f "E:\Quad\EWARM\settings\Micro Quadrotor.Micro Quadrotor Configuration.driver.xcl" 
 
 @echo off 
 :end
