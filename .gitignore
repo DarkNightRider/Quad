@@ -20,6 +20,6 @@ JLinkLog.txt
 *.pbi
 *.sim
 *.out
-EWARM/Micro Quadrotor Configuration/Obj/*
-EWARM/Micro Quadrotor Configuration/Exe/*
+*/Obj/*
+*/Exe/*
 
